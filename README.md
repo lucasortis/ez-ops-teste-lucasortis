@@ -6,4 +6,4 @@ Teste prático ez-ops
 Dentro do mesmo diretório de **server.js** crie o arquivo **.env**, dentro dele crie a variável **DB_URL**, ela terá que receber a url de seu banco criado no mlab, conforme exemplo abaixo:
 
 
-**DB_URL='mongodb+srv://<usuario>:<senha>@simple-chat.sf3no.mongodb.net/chat?retryWrites=true&w=majority'**
+**DB_URL='mongodb+srv://[usuario]:[senha]@simple-chat.sf3no.mongodb.net/chat?retryWrites=true&w=majority'**
